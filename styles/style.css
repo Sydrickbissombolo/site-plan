@@ -36,6 +36,10 @@ section h2 {
 section h1, h4 {
     background-color: deeppink;
 }
+section h4, h1, h2 {
+    text-align: center;
+    text-decoration: aliceblue;
+}
 footer p a:hover {
     font-size: 1.2em;
     text-decoration: underline;
