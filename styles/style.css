@@ -1,0 +1,42 @@
+
+
+#backgroud {
+    height: 725px;
+}
+header {
+    background-color: rgba(105, 223, 20, 0.7);
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3
+}
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer p {
+    background-color: rgb(204, 247, 13);
+}
+footer div {
+    background-color: #d9c2a3;
+}
+section p {
+    background-color: rgb(14, 156, 243);
+}
+section a {
+    background-color: rgb(114, 102, 185);
+}
+section h2 {
+    background-color: rgb(12, 151, 238);
+}
+section h1, h4 {
+    background-color: deeppink;
+}
+footer p a:hover {
+    font-size: 1.2em;
+    text-decoration: underline;
+}
