@@ -42,4 +42,5 @@ section h4, h1, h2 {
 }
 footer p a:hover {
     font-size: 1.2em;
+    text-decoration: none;
 }
